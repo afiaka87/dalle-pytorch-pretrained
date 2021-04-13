@@ -1,4 +1,4 @@
-git+https://github.com/openai/CLIP.git
+git+https://github.com/afiaka87/CLIP.git
 taming-transformers
 dalle-pytorch
 tokenizers
